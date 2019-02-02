@@ -16,8 +16,10 @@ public class Test {
 
 	}
 	
+
 	private void newMethod3() {
 		// this is modified from newBranch
+
 
 	}
 
