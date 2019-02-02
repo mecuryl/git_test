@@ -37,6 +37,7 @@ import org.junit.Test;
 
 public class MarxTest {
 
+	//add comment ha ha
     private static final String REST_TARGET_URL = "http://localhost:8080/jboss-jaxrs-client/rest/contacts";
     
     
