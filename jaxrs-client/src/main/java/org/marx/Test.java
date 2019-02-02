@@ -16,8 +16,10 @@ public class Test {
 
 	}
 	
-	private void newMethod5() {
-		// this is modified from John
+
+	private void newMethod3() {
+		// this is modified from newBranch
+
 
 	}
 
