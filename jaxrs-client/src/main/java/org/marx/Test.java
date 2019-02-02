@@ -15,5 +15,10 @@ public class Test {
 		// TODO Auto-generated method stub
 
 	}
+	
+	private void newMethod3() {
+		// this is modified from newBranch
+
+	}
 
 }
