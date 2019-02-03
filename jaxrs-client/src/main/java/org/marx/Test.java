@@ -22,5 +22,11 @@ public class Test {
 
 
 	}
+	
+	private void newMethod4() {
+		// this is modified from newBranch
+
+
+	}
 
 }
