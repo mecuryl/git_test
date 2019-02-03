@@ -22,5 +22,12 @@ public class Test {
 
 
 	}
+	
+	
+	private void newMethod4_master() {
+		// this is modified from newBranch
+
+
+	}
 
 }
